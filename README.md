@@ -1,2 +1,2 @@
 # vanilla_js_model
-This is a model maybe only will vanilla javascritp. 
+This is a model made only will vanilla javascritp. 
